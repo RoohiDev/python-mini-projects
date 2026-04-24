@@ -1,0 +1,33 @@
+# Python Mini Projects
+
+A collection of small Python projects I (and maybe you) built while learning.
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| *(more coming)* | *(still learning)* |
+
+## How to Run
+
+Each project has its own README with specific instructions.
+
+Generally:
+
+```bash
+cd project-name
+python main.py
+```
+
+## Requirements
+
+- Python 3.x
+- Check each project's folder for specific requirements (if any)
+
+## Contributing
+
+PRs are welcome! Each new project must be in its own folder with a README (description, how to run, dependencies). Keep it clean, simple and beginner-friendly.
+
+## License
+
+MIT
