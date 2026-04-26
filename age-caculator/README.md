@@ -11,11 +11,14 @@ A simple program that calculates your age based on birth year.
 
 ## Run
 
+```bash
 python age_calculator.py
+```
 
 ## Example
 
 Enter your birth date year: 2000
+
 You are 26 years old.
 
 ## Dependencies
