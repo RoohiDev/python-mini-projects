@@ -7,6 +7,7 @@ A collection of small Python projects I (and maybe you) built while learning.
 | Project | Description |
 |---------|-------------|
 | [age-calculator](https://github.com/RoohiDev/python-mini-projects/tree/main/age-caculator) | Calculate your age based on birth year |
+| [is-palindrome](https://github.com/RoohiDev/python-mini-projects/tree/main/is-palindrome) | Check if a word reads the same forwards and backwards |
 | *(more coming)* | *(still learning)* |
 
 ## How to Run
