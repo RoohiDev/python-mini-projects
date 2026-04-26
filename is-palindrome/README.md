@@ -11,15 +11,19 @@ A simple program that checks if a word or phrase is a palindrome (reads the same
 5. Prints "Yes" if palindrome, "No" if not
 
 ## Run
+```bash
 
 python palindrome_checker.py
+```
 
 ## Example
 
 Enter your string to check: radar
+
 Yes
 
 Enter your string to check: hello
+
 No
 
 ## Note
