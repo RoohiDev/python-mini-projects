@@ -6,8 +6,8 @@ A collection of small Python projects I (and maybe you) built while learning.
 
 | Project | Description |
 |---------|-------------|
-| [age-calculator](https://github.com/RoohiDev/python-mini-projects/tree/main/age-caculator) | Calculate your age based on birth year |
-| [is-palindrome](https://github.com/RoohiDev/python-mini-projects/tree/main/is-palindrome) | Check if a word reads the same forwards and backwards |
+| [age-calculator](./age-caculator) | Calculate your age based on birth year |
+| [is-palindrome](./is-palindrome) | Check if a word reads the same forwards and backwards |
 | *(more coming)* | *(still learning)* |
 
 ## How to Run
@@ -29,6 +29,10 @@ python main.py
 ## Contributing
 
 PRs are welcome! Each new project must be in its own folder with a README (description, how to run, dependencies). Keep it clean, simple and beginner-friendly.
+
+## Support
+
+⭐ Star this repo if you find it useful!
 
 ## License
 
