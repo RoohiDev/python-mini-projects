@@ -8,7 +8,7 @@ A collection of small Python projects I (and maybe you) built while learning.
 |---------|-------------|
 | [age-calculator](./age-caculator) | Calculate your age based on birth year |
 | [is-palindrome](./is-palindrome) | Check if a word reads the same forwards and backwards |
-| [is-prime](./is-prime) | check if a number is prime |
+| [is-prime](./is-prime) | Check if a number is prime, composite, or neither |
 | *(more coming)* | *(still learning)* |
 
 ## How to Run
