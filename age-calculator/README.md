@@ -12,7 +12,7 @@ A simple program that calculates your age based on birth year.
 ## Run
 
 ```bash
-python age_calculator.py
+python main.py
 ```
 
 ## Example

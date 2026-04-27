@@ -13,7 +13,7 @@ A simple program that checks if a number is prime, composite, or neither.
 ## Run
 
 ```bash
-python prime_checker.py
+python main.py
 ```
 
 ## Example
@@ -36,9 +36,8 @@ Please enter a numeric value!
 
 ## Technical Note
 
-This implementation uses Python's `for-else` syntax:
-- `else` block runs only if loop completes without finding a divisor
-- Clean and readable Pythonic style
+Uses Python's `for-else` syntax:
+- `else` runs only if loop finds no divisor
 
 ## Dependencies
 

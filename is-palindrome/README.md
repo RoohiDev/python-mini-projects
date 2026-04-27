@@ -13,7 +13,7 @@ A simple program that checks if a word or phrase is a palindrome (reads the same
 ## Run
 ```bash
 
-python palindrome_checker.py
+python main.py
 ```
 
 ## Example
@@ -29,6 +29,11 @@ No
 ## Note
 
 This version only works for single words without spaces or punctuation.
+
+## Technical Note
+
+Uses Python's string slicing `[::-1]`:
+- Step `-1` reverses the string
 
 ## Dependencies
 
