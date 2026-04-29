@@ -10,6 +10,7 @@ A collection of small Python projects I (and maybe you) built while learning.
 | [is-palindrome](./is-palindrome) | Check if a word reads the same forwards and backwards |
 | [is-prime](./is-prime) | Check if a number is prime, composite, or neither |
 | [guess-number](./guess-number) | Guess a random number between 0 and 50 |
+| [guess-name](./guess-name) |  Computer tries to guess your name from a list |
 | *(more coming)* | *(still learning)* |
 
 ## How to Run
