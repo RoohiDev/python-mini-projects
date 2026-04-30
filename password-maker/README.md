@@ -20,9 +20,7 @@ python main.py
 ========= Welcome To Password Maker Program =========
 
 Select Option: 
-
         1) Create Password
-
         2) Exit
 Your Option: 1
 
@@ -36,9 +34,7 @@ Your password: ^"H7BPrS
 
 
 Select Option:
-
         1) Create Password
-
         2) Exit
 
 Your Option: 2
