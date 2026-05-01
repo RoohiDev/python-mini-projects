@@ -12,6 +12,7 @@ A collection of small Python projects I (and maybe you) built while learning.
 | [guess-number](./guess-number) | Guess a random number between 0 and 50 |
 | [guess-name](./guess-name) |  Computer tries to guess your name from a list |
 | [password-maker](./password-maker) | Generate random passwords with letters, symbols and numbers |
+| [countdown-timer](./countdown-timer) | Countdown timer with hours, minutes and seconds |
 | *(more coming)* | *(still learning)* |
 
 ## How to Run
